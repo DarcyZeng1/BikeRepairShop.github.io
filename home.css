@@ -6,7 +6,6 @@ body{
 .homeBody{
   background-image: url(bike.jpg);
   text-align: center;
-  font-size: 175%
 }
 
 .homeBox{
@@ -110,6 +109,11 @@ body{
     font-size: 32;
 }
 
+.openTime p{
+  margin-top: 30px;
+  font-size: 170%;
+}
+
 /*=============about us==============*/
 
 .aboutBox{
@@ -163,18 +167,18 @@ body{
 }
 /*====================Book Btn===============*/
 #book{
-    background-color: black;
-    border-radius: 32px;
-    border: 3px solid gray;
+  background-color: black;
+  border-radius: 32px;
+  border: 3px solid gray;
 }
 
 .bookBox{
-    background-color: rgb(186, 181, 181);
-    padding: 20px;
-    margin-top: 10px;
-    height: 100vh;
-    align-items: center;
-    text-align: center;
+  background-color: rgb(186, 181, 181);
+  padding: 20px;
+  margin-top: 10px;
+  height: 100vh;
+  align-items: center;
+  text-align: center;
 }
 
 
@@ -203,21 +207,21 @@ body{
 }
 
 .bookingConfirmBox{
-    text-align: center;
-    background-color: rgb(186, 181, 181);
-    padding: 20px;
-    margin-top: 10px;
-    height: 100vh;
+  text-align: center;
+  background-color: rgb(186, 181, 181);
+  padding: 20px;
+  margin-top: 10px;
+  height: 100vh;
 }
 
 .bookingConfirmBox p{
-    font-size: 32px;
+  font-size: 32px;
 }
 
 
 
 .bookId{
-    font-size: 32px;
+  font-size: 32px;
 }
 
 #openTimeBook p{
@@ -227,47 +231,47 @@ body{
 /*=======================services Box===========*/
 
 .serviceBox{
-    background-color: rgb(186, 181, 181);
-    padding: 20px;
-    margin-top: 10px;
-    height: 150vh;
+  background-color: rgb(186, 181, 181);
+  padding: 20px;
+  margin-top: 10px;
+  height: 150vh;
 }
 
 .serviceTitle{
-    font-size: 48px;
+  font-size: 48px;
 }
 
 .service1{
-    margin-left: 10%;
-    margin-top: -5%;
-    margin-top: 32px;
-    font-size: 24px;
+  margin-left: 10%;
+  margin-top: -5%;
+  margin-top: 32px;
+  font-size: 24px;
 }
 
 
 .service2{
-    margin-left: 10%;
-    margin-top: -5%;
-    margin-top: 240px;
-    font-size: 24px;
+  margin-left: 10%;
+  margin-top: -5%;
+  margin-top: 240px;
+  font-size: 24px;
 }
 
 #tuneUpImg{
-    width: 40%;
-    height: auto;
-    float: right;
-    margin-right: 240px;
-    margin-top: 32px;
+  width: 40%;
+  height: auto;
+  float: right;
+  margin-right: 240px;
+  margin-top: 32px;
 }
 
 /*=======================technitian============*/
 
 .technitianBox{
-    background-color: rgb(186, 181, 181);
-    padding: 20px;
-    margin-top: 10px;
-    height: 100vh;
-    text-align: center;
+  background-color: rgb(186, 181, 181);
+  padding: 20px;
+  margin-top: 10px;
+  height: 100vh;
+  text-align: center;
 }
 
 .technician{
